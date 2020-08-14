@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Style Guide Home](README.md)
+* [Highlights](highlights.md)
+* [Copyright](copyright.md)
 
