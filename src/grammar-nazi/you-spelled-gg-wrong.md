@@ -10,6 +10,10 @@ description: >-
 **Why I'm here?** You misspelled Gildedguy's name and someone asked you to read this article. We know this grammar issue is frustrating for you, but we're here to help.
 {% endhint %}
 
+{% hint style="warning" %}
+**Work in progress.** Don't treat this document as done. It's still in the drafting process.
+{% endhint %}
+
 ## Purpose / Description
 
 The overview of this document is to provide procedures and best practices for spelling Gildedguy's name. As this can be a challenging task for us and the Grammar Nazis, we'll update this page on a monthly basis to reflect recent innovations regarding this topic.
